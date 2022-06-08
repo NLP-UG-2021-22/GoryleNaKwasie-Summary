@@ -1,4 +1,13 @@
 Marta Stanisławowska & Kasia Przerada - chapter 9
+
+## 9.1: Ambiguity
+The first paragraph is subjected to the revision of Chapter 8. The topics which were touched upon in that chapter were **parse trees** and **Deep Structure**. 
+
+The next paragraph begins with the extension of the idea that sentence semantics is interlinked with its syntax by explaining the phenomenon of **compositionality**. According to that concept, it is the words meaning and their morphosyntactic structures that constitute meaning. Words or phrases which have more than one meaning are termed **ambiguous**. In such cases, there are often 2 grammatical (or more) ways to combine the sentences. Consequently, we can create more than one parse three to depict **syntactic ambiguity**. 
+
+The last defined topic is **lexical ambiguity**, which differs from structural ambiguity because it concerns specifically words with multiple meanings. The usage of such words in a sentence might cause misunderstanding when the context is missing.
+
+
 Albert Neczajewski & Dominika Bielińska - chapter 10
 ## 10.4 Deixis: Meaning that depends on context
 This section focuses on **deictic expressions** which are words and phrases that refer to different things every time they are used. These phrases mean can many something else completely depending on the context.
