@@ -1,4 +1,4 @@
-Marta Stanisławowska & Kasia Przerada - chapter 9
+### Marta Stanisławowska & Kasia Przerada - chapter 9
 
 ## 9.1: Ambiguity
 The first paragraph is subjected to the revision of Chapter 8. The topics which were touched upon in that chapter were **parse trees** and **Deep Structure**. 
@@ -7,8 +7,13 @@ The next paragraph begins with the extension of the idea that sentence semantics
 
 The last defined topic is **lexical ambiguity**, which differs from structural ambiguity because it concerns specifically words with multiple meanings. The usage of such words in a sentence might cause misunderstanding when the context is missing.
 
+## 9.3: Thematic Roles and Passive Sentence
+In English, as well as in many other languages, the agent very often takes the position of a subject in a sentence, whereas the object position is prevailingly occupied by the theme role. 
+In order to reverse the usual order between thematic and grammatical roles, the **passive structure** is used. In this construction,  the semantic roles do not change, but their grammatical roles do. Passive is often used to draw attention to the ***action***, not to the doer of this action. The distinguishable structure of passive voice is the verb *be* in some form followed by a past participle. 
+Interestingly, some languages manage to reverse the usual mapping of thematic roles by morphology on the verb or with morphology on the noun.
 
-Albert Neczajewski & Dominika Bielińska - chapter 10
+
+### Albert Neczajewski & Dominika Bielińska - chapter 10
 ## 10.4 Deixis: Meaning that depends on context
 This section focuses on **deictic expressions** which are words and phrases that refer to different things every time they are used. These phrases mean can many something else completely depending on the context.
 The section is presented with a video as well as a transcribed script.
