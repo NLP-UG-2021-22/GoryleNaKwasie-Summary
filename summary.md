@@ -23,6 +23,18 @@ The second assumption, based on previous research, is that the L2 learners never
 
 However, the study in Montreal proved that developing L2 mental grammar similar to native representatives ***does not have to take a long time***. Asian students who participated in a 9-weeks crash course in English showed P600 responses to the syntactically incorrect sentences. Consequently, intensive language learning yields the same results as longer, slower language acquisition.
 
+## 9.6 Children learning syntax
+
+Children typically begin to speak their first word around the age of one, and they begin to combine two or more words some time later. But if you've ever spent time with young children, you know that they understand far more than they can express. Their comprehension is frequently far superior to their ability to produce spoken or signed words.
+One simple technique is preferential looking, which involves displaying images on a screen while a recorded voice says something like, "Look! Can you find the foot?" The idea is that if the baby understands the word foot, they will look at the foot image rather than the banana image. This type of experiment has shown that babies as young as six months can recognize named objects.
+
+14-month-olds are sensitive to syntactic constituent structure and its relationship to meaning, according to researchers. In one experiment, researchers introduced novel, made-up words to children who were unfamiliar with them. The children were more likely to reach for the toy that matched the word's syntactic frame if the new word was introduced in an adjective position, "These are blickish."
+
+One-year-olds appear to be sensitive to syntactic category differences. If a word is in the adjective position, its meaning is probably more akin to an attribute or property. Children are sensitive to verb subcategories by the age of two.
+
+Two-year-olds are sensitive to syntactic categories as well as subcategories, according to research. When given the novel verb mooping in a transitive frame, they are more likely to look at a scene in which the two participants are doing the same activity together, such as waving. This suggests that by the age of two, children are sensitive not only to syntactic categories, but also to language subcategories.
+
+Even before children begin combining words to form phrases in their own speech or signing, they have a good understanding of how words combine in grammar.
 
 
 ### Albert Neczajewski & Dominika Bielińska - Chapter 10
