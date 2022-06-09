@@ -38,6 +38,15 @@ Another important element to the meaning of a word is its **connotation**, which
 
 In conclusion, our mental definition of a word is **an intension**, the things in the world that a word refers to are its **extension** or **denotation**, and most words also have **connotations** as part of their meanings.
 
+## 10.2 Intensions in the Mind
+This unit focuses on ways intensions can be organized in our minds. Namely, they can be organized around sets of **binary features** that divide the world into clear-cut categories or around **fuzzy categories** that have both prototypical and peripheral members.
+
+When it comes to **binary features**, the intension for the word bird could be made of features like [+living], [-mammal], [+wings], [+eggs], [+flying]. Some of these features could also describe other words. For example, similar features can denote a fish, with the difference of [-wings], [-flying], [+swimming]. Such a feature composition, also known as componential analysis, captures similarities and differences across categories of things in the world. 
+
+However, it has some **issues**. For example, a penguin is a member of the bird category, but it cannot fly and it can swim. A penguin is a bird, yet it doesn’t have all features associated with the word. If our intensions were organized just as binary features, we wouldn’t be able to represent the meaning of some words.
+
+Another theory of intensions consists of **fuzzy categories**. They contain **exemplars**, which are our memories of every time we’ve encountered an extension of the word. Exemplars can be prototypical when they have all the typical attributes of members of that category. For example, for most North Americans a robin is a prototypical exemplar of the category bird. Some exemplars are peripheral when they have fewer defining attributes and include some that are untypical. A peripheral exemplar of the category bird could be a penguin.
+
 ## 10.4 Deixis: Meaning that depends on context
 This section focuses on **deictic expressions** which are words and phrases that refer to different things every time they are used. These phrases mean can many something else completely depending on the context.
 The section is presented with a video as well as a transcribed script.
