@@ -7,10 +7,36 @@ The next paragraph begins with the extension of the idea that sentence semantics
 
 The last defined topic is **lexical ambiguity**, which differs from structural ambiguity because it concerns specifically words with multiple meanings. The usage of such words in a sentence might cause misunderstanding when the context is missing.
 
+## 9.2: Events, Participants and Thematic Roles
+
+The main theme of this subchapter is what sentences mean. Sentences describe events or states in the world, and events typically have participants: the people or things who take part in the event. It turns out that even in events that are very different from one another, some participants share some meaning. 
+Each sentence's grammatical role is that of a subject. Semantically, the events described by each sentence are quite different. However, even across these various events, the participants described by the underlined noun phrases share some semantic similarities: all of them choose to participate in the event, and all of them cause the event to occur.
+
+Even if some group of sentences have the same verb, they do not share the same semantic properties. Grammatical roles are used to indicate a noun phrase's syntactic position in a sentence. Moreover there is a new type of label called thematic roles. They are used to identify the common semantic properties of event participants. It is important to note that they are unaffected by grammatical roles.
+
+Some noun phrases have different grammatical roles, and one of the most common is called a theme, or in some books, you'll see it called a patient. Theme participants typically undergo events, that is, events happen to them. They're affected by events, and often they change state or position as a result of those events.
+Because the cause is inanimate, a cause participant shares the agentive property of causing an event to occur, but it does not choose to cause it. Some languages distinguish between an animate agent and an inanimate cause morphologically. We assign the label cause to these inanimate participants.
+
+Furthermore, labels such as cause, instrument, and location are used to describe some of the roles that inanimate participants typically play in events.
+Thematic role labels capture the semantic properties of event participants regardless of the noun phrase's syntactic position.
+
+Simply because something has the grammatical role of a subject does not imply that it has the thematic role of an agent, and vice versa.
+There is some debate in the literature about how many thematic roles are required to capture the relevant patterns of behavior in the world's languages, but we'll take the middle ground and use six.
+
 ## 9.3: Thematic Roles and Passive Sentence
 In English, as well as in many other languages, the agent very often takes the position of a subject in a sentence, whereas the object position is prevailingly occupied by the theme role. 
 In order to reverse the usual order between thematic and grammatical roles, the **passive structure** is used. In this construction,  the semantic roles do not change, but their grammatical roles do. Passive is often used to draw attention to the ***action***, not to the doer of this action. The distinguishable structure of passive voice is the verb *be* in some form followed by a past participle. 
 Interestingly, some languages manage to reverse the usual mapping of thematic roles by morphology on the verb or with morphology on the noun.
+
+## 9.4. Neurolinguistics: Using EEG to Investigate Syntax and Semantics 
+
+We saw that if a given string of words has two different grammatical syntactic structures, it can have two different meanings. Nonetheless, we discovered that syntax is not dependent on syntax. A noun phrase with the semantic thematic role of Agent frequently has the syntactic position of Subject; however, not all Agents are Subjects, and not all Subjects are Agents.
+
+When we examine ERPs, we compare responses to various types of events. The conventional comparison is between expected and unexpected events. A sentence like "She takes her coffee with cream and...", for example, creates a strong expectation in your mind about what the next word will be. About 400 milliseconds after that unexpected word appears, we notice a spike in negative voltage.
+
+The N in N400 represents a negative voltage, and the 400 indicates that this spike in negative voltage appears 400 milliseconds after the event. A word that is unexpected in a semantic context is the type of event that triggers an N400 response. The word eaten is semantically consistent with ice cream, but not with the sentence's syntax: determiners are followed by nouns, not verbs.
+
+When we use language in real time, our brain creates expectations about what will happen next. If what happens next contradicts our semantic expectations, the brain responds with an N400; if it contradicts our syntactic expectations, the brain responds with a P600. These various brain responses demonstrate that syntax is not dependent on semantics in our brains.
 
 ## 9.5 Neurolinguistics and Second Language Learning
 Our native language is referred to by linguists as **L1** whereas our second language is called an **L2**. Three major differences between the acquisition of L1 and L2 are: cognitive processes changes, the consciousness of learning, and transfer. 
@@ -22,6 +48,21 @@ The first hypothesis tested in this chapter is that the mental grammar of profic
 The second assumption, based on previous research, is that the L2 learners never reach proficiency in their L2 morphosyntax. Nevertheless, the Harried Browden et.al research showed contradicting evidence. The advanced L2 Spanish learners from England, who were learning Spanish for at least 3 years at university, and additionally had been to a Spanish-speaking country for a year, showed similar **P600** responses to sentences that were syntactically violated to those of native Spanish speakers. 
 
 However, the study in Montreal proved that developing L2 mental grammar similar to native representatives ***does not have to take a long time***. Asian students who participated in a 9-weeks crash course in English showed P600 responses to the syntactically incorrect sentences. Consequently, intensive language learning yields the same results as longer, slower language acquisition.
+
+## 9.6 Children learning syntax
+
+Children typically begin to speak their first word around the age of one, and they begin to combine two or more words some time later. But if you've ever spent time with young children, you know that they understand far more than they can express. Their comprehension is frequently far superior to their ability to produce spoken or signed words.
+One simple technique is preferential looking, which involves displaying images on a screen while a recorded voice says something like, "Look! Can you find the foot?" The idea is that if the baby understands the word foot, they will look at the foot image rather than the banana image. This type of experiment has shown that babies as young as six months can recognize named objects.
+
+14-month-olds are sensitive to syntactic constituent structure and its relationship to meaning, according to researchers. In one experiment, researchers introduced novel, made-up words to children who were unfamiliar with them. The children were more likely to reach for the toy that matched the word's syntactic frame if the new word was introduced in an adjective position, "These are blickish."
+
+One-year-olds appear to be sensitive to syntactic category differences. If a word is in the adjective position, its meaning is probably more akin to an attribute or property. Children are sensitive to verb subcategories by the age of two.
+
+Two-year-olds are sensitive to syntactic categories as well as subcategories, according to research. When given the novel verb mooping in a transitive frame, they are more likely to look at a scene in which the two participants are doing the same activity together, such as waving. This suggests that by the age of two, children are sensitive not 
+only to syntactic categories, but also to language subcategories.
+
+Even before children begin combining words to form phrases in their own speech or signing, they have a good understanding of how words combine in grammar.
+
 
 
 
