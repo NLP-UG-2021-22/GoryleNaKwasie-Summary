@@ -41,7 +41,7 @@ In conclusion, our mental definition of a word is **an intension**, the things i
 ## 10.2 Intensions in the Mind
 This unit focuses on ways intensions can be organized in our minds. Namely, they can be organized around sets of **binary features** that divide the world into clear-cut categories or around **fuzzy categories** that have both prototypical and peripheral members.
 
-When it comes to **binary features**, the intension for the word bird could be made of features like [+living], [-mammal], [+wings], [+eggs], [+flying]. Some of these features could also describe other words. For example, similar features can denote a fish, with the difference of [-wings], [-flying], [+swimming]. Such a feature composition, also known as componential analysis, captures similarities and differences across categories of things in the world.
+When it comes to **binary features**, the intension for the word bird could be made of features like [+living], [-mammal], [+wings], [+eggs],   [+flying]. Some of these features could also describe other words. For example, similar features can denote a fish, with the difference of [-wings], [-flying], [+swimming]. Such a feature composition, also known as componential analysis, captures similarities and differences across categories of things in the world.
 
 However, it has some **issues**. For example, a penguin is a member of the bird category, but it cannot fly and it can swim. A penguin is a bird, yet it doesn’t have all features associated with the word. If our intensions were organized just as binary features, we wouldn’t be able to represent the meaning of some words.
 
