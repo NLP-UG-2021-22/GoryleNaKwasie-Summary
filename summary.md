@@ -1,4 +1,4 @@
-### Marta Stanisławowska & Kasia Przerada - chapter 9
+### Marta Stanisławowska & Kasia Przerada - Chapter 9
 
 ## 9.1: Ambiguity
 The first paragraph is subjected to the revision of Chapter 8. The topics which were touched upon in that chapter were **parse trees** and **Deep Structure**. 
@@ -13,7 +13,19 @@ In order to reverse the usual order between thematic and grammatical roles, the 
 Interestingly, some languages manage to reverse the usual mapping of thematic roles by morphology on the verb or with morphology on the noun.
 
 
-### Albert Neczajewski & Dominika Bielińska - chapter 10
+### Albert Neczajewski & Dominika Bielińska - Chapter 10
+
+## 10.1 Deixis: Elements of Word Meaning: Intensions and Extensions
+This section focuses on how our minds represent the meanings of words. We can either point to an embodiment of a thing or describe its properties. Meanings of words can be defined by **denotations,** also called **extensions**. These are references to the real world’s examples. Meanings can also be defined by **intensions** – lists of things a word can refer to.
+
+When it comes to **denotations**, they are important elements of word meaning, but they do not stand for the entire meaning of a word on their own. For example, a denotation for the Prime Minister of Canada can be Justin Trudeau. However, once the position gets assigned to someone else, the denotation will change. Similarly, the President of Canada has no denotation; however, it still carries an understandable meaning. 
+
+As for an **intension**, it is our mental definition of a word. For example, a list of attributes that a thing needs to be equipped with for us to denote it as a bird is our intension. In that case, these could be: a creature with feathers, wings, and claws, it lays eggs, can fly, and so forth. 
+
+Another important element to the meaning of a word is its **connotation**, which stands for the mental associations or feelings we have in connection to a word. Namely, words can have negative or positive connotations. They vary among people due to cultural differences; however, people who share a mental grammar often also share words’ connotations. 
+
+In conclusion, our mental definition of a word is **an intension**, the things in the world that a word refers to are its **extension** or **denotation**, and most words also have **connotations** as part of their meanings.
+
 ## 10.4 Deixis: Meaning that depends on context
 This section focuses on **deictic expressions** which are words and phrases that refer to different things every time they are used. These phrases mean can many something else completely depending on the context.
 The section is presented with a video as well as a transcribed script.
