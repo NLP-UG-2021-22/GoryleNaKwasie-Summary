@@ -12,6 +12,16 @@ In English, as well as in many other languages, the agent very often takes the p
 In order to reverse the usual order between thematic and grammatical roles, the **passive structure** is used. In this construction,  the semantic roles do not change, but their grammatical roles do. Passive is often used to draw attention to the ***action***, not to the doer of this action. The distinguishable structure of passive voice is the verb *be* in some form followed by a past participle. 
 Interestingly, some languages manage to reverse the usual mapping of thematic roles by morphology on the verb or with morphology on the noun.
 
+## 9.4. Neurolinguistics: Using EEG to Investigate Syntax and Semantics 
+
+We saw that if a given string of words has two different grammatical syntactic structures, it can have two different meanings. Nonetheless, we discovered that syntax is not dependent on syntax. A noun phrase with the semantic thematic role of Agent frequently has the syntactic position of Subject; however, not all Agents are Subjects, and not all Subjects are Agents.
+
+When we examine ERPs, we compare responses to various types of events. The conventional comparison is between expected and unexpected events. A sentence like "She takes her coffee with cream and...", for example, creates a strong expectation in your mind about what the next word will be. About 400 milliseconds after that unexpected word appears, we notice a spike in negative voltage.
+
+The N in N400 represents a negative voltage, and the 400 indicates that this spike in negative voltage appears 400 milliseconds after the event. A word that is unexpected in a semantic context is the type of event that triggers an N400 response. The word eaten is semantically consistent with ice cream, but not with the sentence's syntax: determiners are followed by nouns, not verbs.
+
+When we use language in real time, our brain creates expectations about what will happen next. If what happens next contradicts our semantic expectations, the brain responds with an N400; if it contradicts our syntactic expectations, the brain responds with a P600. These various brain responses demonstrate that syntax is not dependent on semantics in our brains.
+
 ## 9.5 Neurolinguistics and Second Language Learning
 Our native language is referred to by linguists as **L1** whereas our second language is called an **L2**. Three major differences between the acquisition of L1 and L2 are: cognitive processes changes, the consciousness of learning, and transfer. 
 
